@@ -1,7 +1,7 @@
 # InspireAR
 
 THIS PROJECT WAS CREATED DURING HACK THE 6IX 2020 WITH ARYAN DHAR, CONNOR BURNS AND SALVADOR NERI.
-THE ORIGINAL REPOSITORY CAN BE FOUND AT: https://github.com/dhararya/InspireAR
+THE ORIGINAL WEBSITE REPOSITORY CAN BE FOUND AT: https://github.com/dhararya/InspireAR
 
 People struggle to work effectively in a home environment, so we were looking for ways to make it more engaging. Our team came up with the idea for InspireAR because we wanted to design a web app that could motivate remote workers be more organized in a fun and interesting way. Augmented reality seemed very fascinating to us, so we came up with the idea of InspireAR.
 
